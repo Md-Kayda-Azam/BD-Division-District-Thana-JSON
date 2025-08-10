@@ -1,0 +1,79 @@
+# Dhaka Division
+        { name: "Dhaka", bnName: "ঢাকা", districtId: 101, divisionId: 1, isActive: true },
+        { name: "Gazipur", bnName: "গাজীপুর", districtId: 102, divisionId: 1, isActive: true },
+        { name: "Narayanganj", bnName: "নারায়ণগঞ্জ", districtId: 103, divisionId: 1, isActive: true },
+        { name: "Tangail", bnName: "টাঙ্গাইল", districtId: 104, divisionId: 1, isActive: true },
+        { name: "Kishoreganj", bnName: "কিশোরগঞ্জ", districtId: 105, divisionId: 1, isActive: true },
+        { name: "Manikganj", bnName: "মানিকগঞ্জ", districtId: 106, divisionId: 1, isActive: true },
+        { name: "Munshiganj", bnName: "মুন্সিগঞ্জ", districtId: 107, divisionId: 1, isActive: true },
+        { name: "Rajbari", bnName: "রাজবাড়ী", districtId: 108, divisionId: 1, isActive: true },
+        { name: "Madaripur", bnName: "মাদারীপুর", districtId: 109, divisionId: 1, isActive: true },
+        { name: "Gopalganj", bnName: "গোপালগঞ্জ", districtId: 110, divisionId: 1, isActive: true },
+        { name: "Faridpur", bnName: "ফরিদপুর", districtId: 111, divisionId: 1, isActive: true },
+        { name: "Shariatpur", bnName: "শরীয়তপুর", districtId: 112, divisionId: 1, isActive: true },
+        { name: "Narsingdi", bnName: "নরসিংদী", districtId: 113, divisionId: 1, isActive: true },
+
+        # Chittagong Division
+        { name: "Chittagong", bnName: "চট্টগ্রাম", districtId: 201, divisionId: 2, isActive: true },
+        { name: "Cox's Bazar", bnName: "কক্সবাজার", districtId: 202, divisionId: 2, isActive: true },
+        { name: "Bandarban", bnName: "বান্দরবান", districtId: 203, divisionId: 2, isActive: true },
+        { name: "Khagrachhari", bnName: "খাগড়াছড়ি", districtId: 204, divisionId: 2, isActive: true },
+        { name: "Rangamati", bnName: "রাঙ্গামাটি", districtId: 205, divisionId: 2, isActive: true },
+        { name: "Comilla", bnName: "কুমিল্লা", districtId: 206, divisionId: 2, isActive: true },
+        { name: "Feni", bnName: "ফেনী", districtId: 207, divisionId: 2, isActive: true },
+        { name: "Noakhali", bnName: "নোয়াখালী", districtId: 208, divisionId: 2, isActive: true },
+        { name: "Lakshmipur", bnName: "লক্ষ্মীপুর", districtId: 209, divisionId: 2, isActive: true },
+        { name: "Chandpur", bnName: "চাঁদপুর", districtId: 210, divisionId: 2, isActive: true },
+        { name: "Brahmanbaria", bnName: "ব্রাহ্মণবাড়িয়া", districtId: 211, divisionId: 2, isActive: true },
+
+        # Rangpur Division
+        { name: "Rangpur", bnName: "রংপুর", districtId: 301, divisionId: 3, isActive: true },
+        { name: "Dinajpur", bnName: "দিনাজপুর", districtId: 302, divisionId: 3, isActive: true },
+        { name: "Gaibandha", bnName: "গাইবান্ধা", districtId: 303, divisionId: 3, isActive: true },
+        { name: "Kurigram", bnName: "কুড়িগ্রাম", districtId: 304, divisionId: 3, isActive: true },
+        { name: "Lalmonirhat", bnName: "লালমনিরহাট", districtId: 305, divisionId: 3, isActive: true },
+        { name: "Nilphamari", bnName: "নীলফামারী", districtId: 306, divisionId: 3, isActive: true },
+        { name: "Panchagarh", bnName: "পঞ্চগড়", districtId: 307, divisionId: 3, isActive: true },
+        { name: "Thakurgaon", bnName: "ঠাকুরগাঁও", districtId: 308, divisionId: 3, isActive: true },
+
+        # Khulna Division
+        { name: "Khulna", bnName: "খুলনা", districtId: 401, divisionId: 4, isActive: true },
+        { name: "Jashore", bnName: "যশোর", districtId: 402, divisionId: 4, isActive: true },
+        { name: "Satkhira", bnName: "সাতক্ষীরা", districtId: 403, divisionId: 4, isActive: true },
+        { name: "Bagerhat", bnName: "বাগেরহাট", districtId: 404, divisionId: 4, isActive: true },
+        { name: "Kushtia", bnName: "কুষ্টিয়া", districtId: 405, divisionId: 4, isActive: true },
+        { name: "Magura", bnName: "মাগুরা", districtId: 406, divisionId: 4, isActive: true },
+        { name: "Chuadanga", bnName: "চুয়াডাঙ্গা", districtId: 407, divisionId: 4, isActive: true },
+        { name: "Jhenaidah", bnName: "ঝিনাইদহ", districtId: 408, divisionId: 4, isActive: true },
+        { name: "Narail", bnName: "নড়াইল", districtId: 409, divisionId: 4, isActive: true },
+        { name: "Meherpur", bnName: "মেহেরপুর", districtId: 410, divisionId: 4, isActive: true },
+
+        # Barisal Division
+        { name: "Barisal", bnName: "বরিশাল", districtId: 501, divisionId: 5, isActive: true },
+        { name: "Patuakhali", bnName: "পটুয়াখালী", districtId: 502, divisionId: 5, isActive: true },
+        { name: "Pirojpur", bnName: "পিরোজপুর", districtId: 503, divisionId: 5, isActive: true },
+        { name: "Bhola", bnName: "ভোলা", districtId: 504, divisionId: 5, isActive: true },
+        { name: "Jhalokati", bnName: "ঝালকাঠি", districtId: 505, divisionId: 5, isActive: true },
+        { name: "Barguna", bnName: "বরগুনা", districtId: 506, divisionId: 5, isActive: true },
+
+        # Sylhet Division
+        { name: "Sylhet", bnName: "সিলেট", districtId: 601, divisionId: 6, isActive: true },
+        { name: "Moulvibazar", bnName: "মৌলভীবাজার", districtId: 602, divisionId: 6, isActive: true },
+        { name: "Habiganj", bnName: "হবিগঞ্জ", districtId: 603, divisionId: 6, isActive: true },
+        { name: "Sunamganj", bnName: "সুনামগঞ্জ", districtId: 604, divisionId: 6, isActive: true },
+
+        # Rajshahi Division
+        { name: "Rajshahi", bnName: "রাজশাহী", districtId: 701, divisionId: 7, isActive: true },
+        { name: "Bogra", bnName: "বগুড়া", districtId: 702, divisionId: 7, isActive: true },
+        { name: "Naogaon", bnName: "নওগাঁ", districtId: 703, divisionId: 7, isActive: true },
+        { name: "Natore", bnName: "নাটোর", districtId: 704, divisionId: 7, isActive: true },
+        { name: "Chapainawabganj", bnName: "চাঁপাইনবাবগঞ্জ", districtId: 705, divisionId: 7, isActive: true },
+        { name: "Pabna", bnName: "পাবনা", districtId: 706, divisionId: 7, isActive: true },
+        { name: "Joypurhat", bnName: "জয়পুরহাট", districtId: 707, divisionId: 7, isActive: true },
+        { name: "Sirajganj", bnName: "সিরাজগঞ্জ", districtId: 708, divisionId: 7, isActive: true },
+
+        # Mymensingh Division
+        { name: "Mymensingh", bnName: "ময়মনসিংহ", districtId: 801, divisionId: 8, isActive: true },
+        { name: "Netrokona", bnName: "নেত্রকোণা", districtId: 802, divisionId: 8, isActive: true },
+        { name: "Jamalpur", bnName: "জামালপুর", districtId: 803, divisionId: 8, isActive: true },
+        { name: "Sherpur", bnName: "শেরপুর", districtId: 804, divisionId: 8, isActive: true }
