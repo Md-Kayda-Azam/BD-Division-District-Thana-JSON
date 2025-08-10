@@ -1,4 +1,5 @@
-# Dhaka Division
+[
+        # Dhaka Division
         { name: "Dhaka", bnName: "ঢাকা", districtId: 101, divisionId: 1, isActive: true },
         { name: "Gazipur", bnName: "গাজীপুর", districtId: 102, divisionId: 1, isActive: true },
         { name: "Narayanganj", bnName: "নারায়ণগঞ্জ", districtId: 103, divisionId: 1, isActive: true },
@@ -77,3 +78,4 @@
         { name: "Netrokona", bnName: "নেত্রকোণা", districtId: 802, divisionId: 8, isActive: true },
         { name: "Jamalpur", bnName: "জামালপুর", districtId: 803, divisionId: 8, isActive: true },
         { name: "Sherpur", bnName: "শেরপুর", districtId: 804, divisionId: 8, isActive: true }
+      ]
