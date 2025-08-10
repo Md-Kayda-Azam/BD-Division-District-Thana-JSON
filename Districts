@@ -1,4 +1,7 @@
-[
+mutation CreateManyDistricts {
+  createManyDistricts(
+    input: {
+      districts: [
         # Dhaka Division
         { name: "Dhaka", bnName: "ঢাকা", districtId: 101, divisionId: 1, isActive: true },
         { name: "Gazipur", bnName: "গাজীপুর", districtId: 102, divisionId: 1, isActive: true },
@@ -79,3 +82,17 @@
         { name: "Jamalpur", bnName: "জামালপুর", districtId: 803, divisionId: 8, isActive: true },
         { name: "Sherpur", bnName: "শেরপুর", districtId: 804, divisionId: 8, isActive: true }
       ]
+    }
+  ) {
+    districts {
+      _id
+      name
+      bnName
+      districtId
+      divisionId
+      isActive
+      createdAt
+      updatedAt
+    }
+  }
+}
