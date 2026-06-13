@@ -8,3 +8,31 @@
     { "divisionId": 7, "name": "Rajshahi", "bnName": "রাজশাহী", "isActive": true },
     { "divisionId": 8, "name": "Mymensingh", "bnName": "ময়মনসিংহ", "isActive": true }
   ]
+
+
+{
+  "firstName": "আলী",
+  "lastName": "আহমেদ",
+  "email": "knextsma@gmail.com",
+  "phone": "01823382914",
+  "role": "6a22ecf8fd8c89867c341a64",
+   "password": "123456",
+  "school": "507f1f77bcf86cd799439012",
+  "bloodType": "B+",
+  "dateOfBirth": "1995-03-20",
+  "gender": "Male",
+  "presentAddress": {
+    "divisionId": 1,
+    "districtId": 101,
+    "thanaId": 10101,
+    "postOffice": "Dhaka Sadar",
+    "village": "Main Street"
+  },
+  "permanentAddress": {
+    "divisionId": 1,
+    "districtId": 103,
+    "thanaId": 10301,
+    "postOffice": "Narayanganj",
+    "village": "Bandar Area"
+  }
+}
