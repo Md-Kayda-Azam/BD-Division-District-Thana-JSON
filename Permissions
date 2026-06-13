@@ -1,0 +1,244 @@
+[
+    {
+      "name": "user:view",
+      "description": "View user details"
+    },
+    {
+      "name": "user:create",
+      "description": "Create new user"
+    },
+    {
+      "name": "user:update",
+      "description": "Update user details"
+    },
+    {
+      "name": "user:delete",
+      "description": "Delete user"
+    },
+    {
+      "name": "user:manage-roles",
+      "description": "Manage user roles and permissions"
+    },
+
+    {
+      "name": "school:view",
+      "description": "View school details"
+    },
+    {
+      "name": "school:create",
+      "description": "Create new school"
+    },
+    {
+      "name": "school:update",
+      "description": "Update school details"
+    },
+    {
+      "name": "school:delete",
+      "description": "Delete school"
+    },
+
+    {
+      "name": "class:view",
+      "description": "View class details"
+    },
+    {
+      "name": "class:create",
+      "description": "Create new class"
+    },
+    {
+      "name": "class:update",
+      "description": "Update class details"
+    },
+    {
+      "name": "class:delete",
+      "description": "Delete class"
+    },
+
+    {
+      "name": "student:view",
+      "description": "View student details"
+    },
+    {
+      "name": "student:create",
+      "description": "Create new student"
+    },
+    {
+      "name": "student:update",
+      "description": "Update student details"
+    },
+    {
+      "name": "student:delete",
+      "description": "Delete student"
+    },
+    {
+      "name": "student:manage-attendance",
+      "description": "Manage student attendance"
+    },
+    {
+      "name": "student:view-performance",
+      "description": "View student performance"
+    },
+
+    {
+      "name": "teacher:view",
+      "description": "View teacher details"
+    },
+    {
+      "name": "teacher:create",
+      "description": "Create new teacher"
+    },
+    {
+      "name": "teacher:update",
+      "description": "Update teacher details"
+    },
+    {
+      "name": "teacher:delete",
+      "description": "Delete teacher"
+    },
+    {
+      "name": "teacher:manage-attendance",
+      "description": "Manage teacher attendance"
+    },
+    {
+      "name": "teacher:manage-salary",
+      "description": "Manage teacher salary and bonus"
+    },
+    {
+      "name": "teacher:view-performance",
+      "description": "View teacher performance"
+    },
+    {
+      "name": "teacher:give-feedback",
+      "description": "Give feedback to teachers"
+    },
+    {
+      "name": "teacher:view-feedback",
+      "description": "View teacher feedback"
+    },
+    {
+      "name": "teacher:rate",
+      "description": "Rate teachers"
+    },
+
+    {
+      "name": "parent:view",
+      "description": "View parent details"
+    },
+    {
+      "name": "parent:create",
+      "description": "Create new parent"
+    },
+    {
+      "name": "parent:update",
+      "description": "Update parent details"
+    },
+    {
+      "name": "parent:delete",
+      "description": "Delete parent"
+    },
+
+    {
+      "name": "attendance:view-student",
+      "description": "View student attendance"
+    },
+    {
+      "name": "attendance:manage-student",
+      "description": "Manage student attendance"
+    },
+    {
+      "name": "attendance:view-teacher",
+      "description": "View teacher attendance"
+    },
+    {
+      "name": "attendance:manage-teacher",
+      "description": "Manage teacher attendance"
+    },
+    {
+      "name": "attendance:view-school",
+      "description": "View school-wide attendance analytics"
+    },
+
+    {
+      "name": "grade:view",
+      "description": "View grades"
+    },
+    {
+      "name": "grade:create",
+      "description": "Create new grade"
+    },
+    {
+      "name": "grade:update",
+      "description": "Update grades"
+    },
+    {
+      "name": "grade:delete",
+      "description": "Delete grades"
+    },
+
+    {
+      "name": "assignment:view",
+      "description": "View assignments"
+    },
+    {
+      "name": "assignment:create",
+      "description": "Create new assignment"
+    },
+    {
+      "name": "assignment:update",
+      "description": "Update assignment"
+    },
+    {
+      "name": "assignment:delete",
+      "description": "Delete assignment"
+    },
+    {
+      "name": "assignment:submit",
+      "description": "Submit assignment (for students)"
+    },
+    {
+      "name": "assignment:grade",
+      "description": "Grade assignments (for teachers)"
+    },
+
+    {
+      "name": "finance:view-income",
+      "description": "View school income"
+    },
+    {
+      "name": "finance:view-expense",
+      "description": "View school expenses"
+    },
+    {
+      "name": "finance:view-profit-loss",
+      "description": "View profit and loss"
+    },
+    {
+      "name": "finance:manage-tax",
+      "description": "Manage tax"
+    },
+    {
+      "name": "finance:view-report",
+      "description": "View financial reports"
+    },
+
+    {
+      "name": "subscription:view-plan",
+      "description": "View subscription plans"
+    },
+    {
+      "name": "subscription:manage-plan",
+      "description": "Manage subscription plans"
+    },
+    {
+      "name": "subscription:view-school-subscription",
+      "description": "View school subscriptions"
+    },
+    {
+      "name": "subscription:manage-school-subscription",
+      "description": "Manage school subscriptions"
+    },
+    {
+      "name": "subscription:manage-payment",
+      "description": "Manage subscription payments"
+    }
+  ]
