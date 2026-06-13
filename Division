@@ -1,0 +1,10 @@
+[
+    { "divisionId": 1, "name": "Dhaka", "bnName": "ঢাকা", "isActive": true },
+    { "divisionId": 2, "name": "Chattogram", "bnName": "চট্টগ্রাম", "isActive": true },
+    { "divisionId": 3, "name": "Rangpur", "bnName": "রংপুর", "isActive": true },
+    { "divisionId": 4, "name": "Khulna", "bnName": "খুলনা", "isActive": true },
+    { "divisionId": 5, "name": "Barishal", "bnName": "বরিশাল", "isActive": true },
+    { "divisionId": 6, "name": "Sylhet", "bnName": "সিলেট", "isActive": true },
+    { "divisionId": 7, "name": "Rajshahi", "bnName": "রাজশাহী", "isActive": true },
+    { "divisionId": 8, "name": "Mymensingh", "bnName": "ময়মনসিংহ", "isActive": true }
+  ]
